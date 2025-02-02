@@ -1,0 +1,25 @@
+{
+  "sources": [
+    {
+      "name": "국립국어원 표준국어대사전",
+      "author": "문화체육관광부 국립국어원",
+      "link": "https://stdict.korean.go.kr/main/main.do",
+    },
+    {
+      "name": "고려대 한국어 대사전",
+      "author": "발행인	고려 대학교 민족 문화 연구원, 2009",
+      "ISBN": [8971551216, 9788971551219],
+      "link": "https://books.google.co.kr/books/about/%EA%B3%A0%EB%A0%A4%EB%8C%80_%ED%95%9C%EA%B5%AD%EC%96%B4_%EB%8C%80%EC%82%AC%EC%A0%84_%E1%84%87_%E1%84%8B.html?id=zNg_zgEACAAJ&redir_esc=y",
+    },
+    {
+      "name": "우리말샘",
+      "author": "문화체육관광부 국립국어원",
+      "link": "https://opendict.korean.go.kr/main",
+    },
+    {
+      "name": "전라북도 방언사전",
+      "author": "전라북도청",
+      "link": "http://ebook.jeonbuk.go.kr/Viewer/FW3VC96JA5ZQ",
+    }
+  ]
+}
