@@ -1,0 +1,18 @@
+[
+    {
+        "query": "이번 달 3000만원 이상의 품의서를 찾아줘",
+        "expected": {"date_start": "2025-02-01", "date_end": "2025-02-28", "amount": 30000000, "category": ""}
+    },
+    {
+        "query": "지난 달 100만원 이상의 영어 교육비 품의서를 찾아줘",
+        "expected": {"date_start": "2025-01-01", "date_end": "2025-01-31", "amount": 1000000, "category": "tuition"}
+    },
+    {
+        "query": "오늘 작성된 품의서를 찾아줘",
+        "expected": {"date_start": "2025-02-10", "date_end": "2025-02-10", "amount": 0, "category": ""}
+    },
+    {
+        "query": "지난 주에 작성된 500만원 이상의 품의서를 찾아줘",
+        "expected": {"date_start": "2025-02-02", "date_end": "2025-02-08", "amount": 5000000, "category": ""}
+    }
+]

@@ -36,7 +36,3 @@ https://learn.microsoft.com/en-us/azure/search/index-similarity-and-scoring#how-
 https://learn.microsoft.com/en-us/azure/search/search-limits-quotas-capacity#index-limits
 
 - maximum depth of complex fields: 10
-
-## Download koream sample (pkl)
-
-https://iktempstorage.blob.core.windows.net/aisearch/kor_proverbs_idioms.pkl?sp=r&st=2025-01-26T00:44:30Z&se=2025-03-01T08:44:30Z&spr=https&sv=2022-11-02&sr=b&sig=gyoWDrw9owkuwr9vw2AsbA3HRRIwtlgcO98ewHdTOT0%3D
